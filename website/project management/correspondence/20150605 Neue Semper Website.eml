@@ -1,0 +1,125 @@
+Subject: Neue Semper Website
+From: =?utf-8?Q?Tobias_Sturzenegger?= <mail@tobiassturzenegger.ch>
+To: =?utf-8?Q?Mazenauer_Philipp?= <philipp.mazenauer@stud.unilu.ch>
+Cc: =?utf-8?Q?Milan_Liepelt?= <milan.liepelt@hotmail.com>
+Date: Fri, 5 Jun 2015 10:11:10 +0000
+Mime-Version: 1.0
+Content-Type: multipart/alternative; 
+ boundary="=_Zqos1uKhEoc2oMm2EKVBpa3rfHtr9M4ewb-1w0-LwjR4wUja"
+X-Priority: 3 (Normal)
+X-Mailer: Zarafa 7.2.0-48204
+X-Original-To: 
+
+This is a multi-part message in MIME format. Your mail reader does not
+understand MIME message format.
+--=_Zqos1uKhEoc2oMm2EKVBpa3rfHtr9M4ewb-1w0-LwjR4wUja
+Content-Type: text/plain; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+=EF=BB=BFGesch=C3=A4tzter Avis=0D=0A=0D=0A=0D=0AWie wir es beim letzten A=
+C/BC abgemacht haben, sende ich dir nun meine Gedanken/Ideen zu der neuen=
+ Semper Webseite.=0D=0A=0D=0A=0D=0A-=C2=A0=C2=A0 =C2=A0Wir sollten eine k=
+omplette Neuentwicklung ins Auge fassen.=C2=A0 Gr=C3=BCnde dazu sind, das=
+s mit moderneren Web Technologien die Sicherheit, Wartbarkeit und Bedienb=
+arkeit markant besser geworden sind, als bei der Technologie, welche Linu=
+x dazumal verwendet hat.=0D=0A=0D=0A=0D=0A=0D=0A-=C2=A0=C2=A0 =C2=A0Ich h=
+abe mich in den letzten Wochen informiert und auch einiges ausprobiert, w=
+as f=C3=BCr eine Technologie bei der neuen Website zum Einsatz kommen sol=
+l. Es sind dies HTML5, JQuery, Python Django und Bootstrap. Die genannten=
+ erm=C3=B6glichen uns zeitnah eine neue Website zu gestalten.=0D=0A=0D=0A=
+=0D=0A-=C2=A0=C2=A0 =C2=A0Die neue Website soll mindestens gleich viel Fu=
+nktionalit=C3=A4t wie die alte bieten.=0D=0A=0D=0A=0D=0A-=C2=A0=C2=A0 =C2=
+=A0Die neue Website soll auf Antrag am AC/BC zus=C3=A4tzliche Funktionali=
+t=C3=A4t bieten.=0D=0A=0D=0A=0D=0A-=C2=A0=C2=A0 =C2=A0Es soll ein Ausschu=
+ss zur neuen Website gebildet werden, da es f=C3=BCr Software-Projekte im=
+mens wichtig ist, dass nur eine kleine Anzahl an Leuten Entscheidungsbefu=
+gnisse haben und =C3=84nderungen anbringen d=C3=BCrfen. Ganz getreu dem M=
+otto =E2=80=9EZu viele K=C3=B6che versalzen den Brei=E2=80=9C.=0D=0A=0D=0A=
+=0D=0A-=C2=A0=C2=A0 =C2=A0Alle Entscheidungen werden ausschliesslich vom =
+Ausschuss getroffen.=0D=0A=0D=0AUm Dir einen kleinen Vorgeschmack zu gebe=
+n, wie die Website in etwa aussehen k=C3=B6nnte. Gibt es eine grosse Bibl=
+iothek mit m=C3=B6glichen Vorlagen (wir werden hier definitiv das Rad nic=
+ht neu erfinden). Du findest diese hier:=0D=0A=0D=0A=0D=0Ahttp://www.boot=
+strapzero.com/bootstrap-templates=0D=0A=0D=0A=0D=0ADu kannst hier verschi=
+edene Vorlagen anschauen, indem du eine Vorlage anklickst und auf =E2=80=9E=
+Live Preview=E2=80=9C dr=C3=BCckst.=0D=0A=0D=0A=0D=0ASF!=0D=0AKrypto=0D=0A=
+=0D=0A=0D=0A
+--=_Zqos1uKhEoc2oMm2EKVBpa3rfHtr9M4ewb-1w0-LwjR4wUja
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: quoted-printable
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://ww=
+w.w3.org/TR/html4/loose.dtd"><html>=0A<head>=0A  <meta name=3D"Generator"=
+ content=3D"Zarafa WebApp v7.2.0-48204">=0A  <meta http-equiv=3D"Content-=
+Type" content=3D"text/html; charset=3Dutf-8">=0A  <title>Neue Semper Webs=
+ite</title>=0A</head>=0A<body>=0A<p style=3D"padding: 0; margin: 0;"><spa=
+n data-mce-bogus=3D"true" id=3D"_mce_caret"><span data-mce-style=3D"font-=
+size: 10pt; font-family: tahoma,arial,helvetica,sans-serif;" style=3D"fon=
+t-size: 10pt; font-family: tahoma,arial,helvetica,sans-serif;">=EF=BB=BFG=
+esch=C3=A4tzter Avis</span></span></p><p style=3D"padding: 0; margin: 0;"=
+><span data-mce-bogus=3D"true" id=3D"_mce_caret"><span data-mce-style=3D"=
+font-size: 10pt; font-family: tahoma,arial,helvetica,sans-serif;" style=3D=
+"font-size: 10pt; font-family: tahoma,arial,helvetica,sans-serif;"><br>Wi=
+e wir es beim letzten AC/BC abgemacht haben, sende ich dir nun meine Geda=
+nken/Ideen zu der neuen Semper Webseite.</span></span></p><p style=3D"pad=
+ding: 0; margin: 0;"><span data-mce-bogus=3D"true" id=3D"_mce_caret"><spa=
+n data-mce-style=3D"font-size: 10pt; font-family: tahoma,arial,helvetica,=
+sans-serif;" style=3D"font-size: 10pt; font-family: tahoma,arial,helvetic=
+a,sans-serif;"><br>-&nbsp;&nbsp; &nbsp;Wir sollten eine komplette Neuentw=
+icklung ins Auge fassen.&nbsp; Gr=C3=BCnde dazu sind, dass mit moderneren=
+ Web Technologien die Sicherheit, Wartbarkeit und Bedienbarkeit markant b=
+esser geworden sind, als bei der Technologie, welche Linux dazumal verwen=
+det hat.<br></span></span></p><p style=3D"padding: 0; margin: 0;"><span d=
+ata-mce-style=3D"font-size: 10pt; font-family: tahoma,arial,helvetica,san=
+s-serif;" style=3D"font-size: 10pt; font-family: tahoma,arial,helvetica,s=
+ans-serif;"><br data-mce-bogus=3D"1"></span></p><p style=3D"padding: 0; m=
+argin: 0;"><span data-mce-bogus=3D"true" id=3D"_mce_caret"><span data-mce=
+-style=3D"font-size: 10pt; font-family: tahoma,arial,helvetica,sans-serif=
+;" style=3D"font-size: 10pt; font-family: tahoma,arial,helvetica,sans-ser=
+if;">-&nbsp;&nbsp; &nbsp;Ich habe mich in den letzten Wochen informiert u=
+nd auch einiges ausprobiert, was f=C3=BCr eine Technologie bei der neuen =
+Website zum Einsatz kommen soll. Es sind dies HTML5, JQuery, Python Djang=
+o und Bootstrap. Die genannten erm=C3=B6glichen uns zeitnah eine neue Web=
+site zu gestalten.</span></span></p><p style=3D"padding: 0; margin: 0;"><=
+span data-mce-bogus=3D"true" id=3D"_mce_caret"><span data-mce-style=3D"fo=
+nt-size: 10pt; font-family: tahoma,arial,helvetica,sans-serif;" style=3D"=
+font-size: 10pt; font-family: tahoma,arial,helvetica,sans-serif;"><br>-&n=
+bsp;&nbsp; &nbsp;Die neue Website soll mindestens gleich viel Funktionali=
+t=C3=A4t wie die alte bieten.</span></span></p><p style=3D"padding: 0; ma=
+rgin: 0;"><span data-mce-bogus=3D"true" id=3D"_mce_caret"><span data-mce-=
+style=3D"font-size: 10pt; font-family: tahoma,arial,helvetica,sans-serif;=
+" style=3D"font-size: 10pt; font-family: tahoma,arial,helvetica,sans-seri=
+f;"><br>-&nbsp;&nbsp; &nbsp;Die neue Website soll auf Antrag am AC/BC zus=
+=C3=A4tzliche Funktionalit=C3=A4t bieten.</span></span></p><p style=3D"pa=
+dding: 0; margin: 0;"><span data-mce-bogus=3D"true" id=3D"_mce_caret"><sp=
+an data-mce-style=3D"font-size: 10pt; font-family: tahoma,arial,helvetica=
+,sans-serif;" style=3D"font-size: 10pt; font-family: tahoma,arial,helveti=
+ca,sans-serif;"><br>-&nbsp;&nbsp; &nbsp;Es soll ein Ausschuss zur neuen W=
+ebsite gebildet werden, da es f=C3=BCr Software-Projekte immens wichtig i=
+st, dass nur eine kleine Anzahl an Leuten Entscheidungsbefugnisse haben u=
+nd =C3=84nderungen anbringen d=C3=BCrfen. Ganz getreu dem Motto =E2=80=9E=
+Zu viele K=C3=B6che versalzen den Brei=E2=80=9C.</span></span></p><p styl=
+e=3D"padding: 0; margin: 0;"><span data-mce-bogus=3D"true" id=3D"_mce_car=
+et"><span data-mce-style=3D"font-size: 10pt; font-family: tahoma,arial,he=
+lvetica,sans-serif;" style=3D"font-size: 10pt; font-family: tahoma,arial,=
+helvetica,sans-serif;"><br>-&nbsp;&nbsp; &nbsp;Alle Entscheidungen werden=
+ ausschliesslich vom Ausschuss getroffen.<br><br>Um Dir einen kleinen Vor=
+geschmack zu geben, wie die Website in etwa aussehen k=C3=B6nnte. Gibt es=
+ eine grosse Bibliothek mit m=C3=B6glichen Vorlagen (wir werden hier defi=
+nitiv das Rad nicht neu erfinden). Du findest diese hier:</span></span></=
+p><p style=3D"padding: 0; margin: 0;"><span data-mce-bogus=3D"true" id=3D=
+"_mce_caret"><span data-mce-style=3D"font-size: 10pt; font-family: tahoma=
+,arial,helvetica,sans-serif;" style=3D"font-size: 10pt; font-family: taho=
+ma,arial,helvetica,sans-serif;"><br>http://www.bootstrapzero.com/bootstra=
+p-templates</span></span></p><p style=3D"padding: 0; margin: 0;"><span da=
+ta-mce-bogus=3D"true" id=3D"_mce_caret"><span data-mce-style=3D"font-size=
+: 10pt; font-family: tahoma,arial,helvetica,sans-serif;" style=3D"font-si=
+ze: 10pt; font-family: tahoma,arial,helvetica,sans-serif;"><br>Du kannst =
+hier verschiedene Vorlagen anschauen, indem du eine Vorlage anklickst und=
+ auf =E2=80=9ELive Preview=E2=80=9C dr=C3=BCckst.</span></span></p><p sty=
+le=3D"padding: 0; margin: 0;"><span data-mce-bogus=3D"true" id=3D"_mce_ca=
+ret"><span data-mce-style=3D"font-size: 10pt; font-family: tahoma,arial,h=
+elvetica,sans-serif;" style=3D"font-size: 10pt; font-family: tahoma,arial=
+,helvetica,sans-serif;"><br>SF!<br>Krypto<br><br></span></span></p>=0A</b=
+ody>=0A</html>
+--=_Zqos1uKhEoc2oMm2EKVBpa3rfHtr9M4ewb-1w0-LwjR4wUja--
